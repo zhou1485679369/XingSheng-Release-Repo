@@ -4,6 +4,24 @@
 
 目前提供 **Windows 11 x64 安装包**。软件界面和本机服务在电脑上运行；选择云端模式时，相关请求会发送到你配置的云端服务。
 
+## 界面预览
+
+以下截图来自 Windows 本地运行的形声平台。界面中的人物和历史视频为演示素材。
+
+**数字人口播：编写讲稿，选择人物与声音**
+
+![数字人口播页面，展示讲稿编辑和角色设置](assets/screenshots/01-narration.jpg)
+
+| 数字人对话：麦克风问答与人物画面 | PPT 讲解：导入演示文稿 |
+| --- | --- |
+| ![数字人对话页面](assets/screenshots/02-conversation.jpg) | ![PPT 讲解页面](assets/screenshots/03-ppt.jpg) |
+
+| 素材库：人物形象与声音 | 历史视频：首帧预览与下载 |
+| --- | --- |
+| ![素材库页面](assets/screenshots/04-library.jpg) | ![历史视频页面](assets/screenshots/05-history.jpg) |
+
+实时语音对话画面目前显示人物静态形象；逐轮口型视频仍需要等待本机渲染。
+
 ## 下载安装
 
 1. 前往 [Releases](https://github.com/zhou1485679369/XingSheng-Release-Repo/releases/latest) 下载 `XingSheng-0.1.5-win-x64.exe`，双击安装并启动。安装包未进行代码签名，Windows 可能提示“未知发布者”。

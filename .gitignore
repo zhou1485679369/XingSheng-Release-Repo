@@ -4,3 +4,5 @@
 !assets/
 assets/*
 !assets/contact-wechat.jpg
+!assets/screenshots/
+!assets/screenshots/*.jpg
